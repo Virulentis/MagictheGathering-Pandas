@@ -24,3 +24,19 @@ Questions to look into:
 
 <img width="1189" height="490" alt="download" src="https://github.com/user-attachments/assets/792e2463-1699-4a14-a9d8-1361bc894f5c" />
 
+
+<img width="1189" height="490" alt="download" src="https://github.com/user-attachments/assets/ed4aebeb-1109-4da2-98e6-25a8d61ee3bf" />
+
+- **N:** Oracle is how the card plays within the game, not what is written on the card. See below.
+
+<table>
+  <tr>
+    <td align="center"><b>Original</b></td>
+    <td align="center"><b>Oracle</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b171e927-d102-4e9c-92c2-f1b1d5794341" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/d6b83fb3-dc45-467b-967d-88b9dcf27bf4" width="300" /></td>
+  </tr>
+</table>
+
